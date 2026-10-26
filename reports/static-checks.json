@@ -1,0 +1,32 @@
+{
+  "author": "Бандурко Влада",
+  "group": "ИВТ-1",
+  "noRuntimeScripts": true,
+  "missingLocalFiles": [],
+  "heroNames": [
+    {
+      "name": "Чёрная вдова",
+      "present": true
+    },
+    {
+      "name": "Ванда Максимофф",
+      "present": true
+    },
+    {
+      "name": "Пьетро Максимофф",
+      "present": true
+    },
+    {
+      "name": "Тони Старк",
+      "present": true
+    },
+    {
+      "name": "Соколиный глаз",
+      "present": true
+    }
+  ],
+  "wavePaths": 8,
+  "waveReturnsToOrigin": 8,
+  "ringProperty": true,
+  "heroCheckboxes": 5
+}

@@ -1,0 +1,101 @@
+{
+  "base": {
+    "astronaut": "space-float",
+    "charactersWithImages": 0,
+    "dotDuration": "14s",
+    "dots": 8,
+    "heroes": 5,
+    "ringAnimation": "draw-ring",
+    "scripts": 0,
+    "stars": 7
+  },
+  "powers": [
+    {
+      "animations": [
+        "widow-aura",
+        "combat-shift",
+        "widow-left",
+        "baton-zap",
+        "widow-right"
+      ],
+      "character": "Чёрная вдова",
+      "checked": true
+    },
+    {
+      "animations": [
+        "chaos-ring",
+        "hair-wind",
+        "wanda-left",
+        "chaos-orb",
+        "wanda-right"
+      ],
+      "character": "Алая ведьма",
+      "checked": true
+    },
+    {
+      "animations": [
+        "speed-lines",
+        "speed-body",
+        "run-leg",
+        "run-arm"
+      ],
+      "character": "Ртуть",
+      "checked": true
+    },
+    {
+      "animations": [
+        "repulsor-fire",
+        "reactor-glow",
+        "iron-arm"
+      ],
+      "character": "Железный человек",
+      "checked": true
+    },
+    {
+      "animations": [
+        "target-hit",
+        "bow-arm-left",
+        "bow-arm-right",
+        "bow-pull",
+        "arrow-flight"
+      ],
+      "character": "Соколиный глаз",
+      "checked": true
+    }
+  ],
+  "widowReset": "none",
+  "keyboardPower": false,
+  "menuPause": {
+    "background": "conic-gradient(from -90deg, rgb(120, 156, 133) 0deg, rgb(120, 156, 133) 277.848deg, rgba(0, 0, 0, 0) 277.848deg, rgba(0, 0, 0, 0) 360deg)",
+    "mask": "radial-gradient(farthest-side, rgba(0, 0, 0, 0) calc(100% - 3px), rgb(0, 0, 0) calc(100% - 2px))",
+    "state": "paused"
+  },
+  "wavePause": "paused",
+  "responsive": [
+    {
+      "clientWidth": 305,
+      "heroes": 5,
+      "scrollWidth": 305,
+      "viewport": 320
+    },
+    {
+      "clientWidth": 753,
+      "heroes": 5,
+      "scrollWidth": 753,
+      "viewport": 768
+    },
+    {
+      "clientWidth": 985,
+      "heroes": 5,
+      "scrollWidth": 985,
+      "viewport": 1000
+    },
+    {
+      "clientWidth": 1265,
+      "heroes": 5,
+      "scrollWidth": 1265,
+      "viewport": 1280
+    }
+  ],
+  "console": []
+}
